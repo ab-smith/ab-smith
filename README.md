@@ -1,16 +1,14 @@
-### Hi there 👋, my name is Abderrahmane Smimite, commonly known as Abder 
+### Hi there 👋, my name is Abderrahmane Smimite
 
-<!--
-**ab-smith/ab-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+commonly known as Abder 😄
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on an open source risk management platform, built on Django
+- 🌱 I’m currently learning Django accordingly to harvest its power
+- 👯 I’m looking to collaborate on Cyber security or I/A related topics
+- 💬 Ask me about cyber security, cloud and agile management
+- 📫 How to reach me: twitter or email
+- ⚡ Fun fact: started coding when wolfenstein 3D was a thing
+
