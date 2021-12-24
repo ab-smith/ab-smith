@@ -4,11 +4,8 @@ commonly known as Abder 😄
 
 
 
-- 💪 My expertise is in Agile, Cloud and Cyber Security
-- 🔭 I’m currently working on an open source risk management platform, built on Django
-- 🌱 I’m currently learning Django accordingly to harvest its power
-- 👯 I’m looking to collaborate on Cyber security or I/A related topics
-- 💬 Ask me about cyber security, cloud and agile management
+- 💪 My expertise is in Cyber Security, Cloud, Data Engineering and Agile practices
+- 🔭 I’m currently contributing to multiple django-based projects and looking to expand to Rustlang soon!
+- 👯 I’m looking to collaborate on any of the previously mentioned topics
+- 💬 and you can ask me about any of them
 - 📫 How to reach me: twitter or email
-- ⚡ Fun fact: started coding when wolfenstein 3D was a thing
-
