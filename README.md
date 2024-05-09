@@ -10,4 +10,3 @@ commonly known as Abder 😉
 - 💬 and you can ask me about any of them
 - 📫 How to reach me: Discord, LinkedIn or Email `abder@intuitem.com`
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ab-smith&count_private=true&show_icons=true&rank_icon=percentile&include_all_commits=false&show=reviews,prs_merged_percentage)](https://github.com/ab-smith)
